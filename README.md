@@ -94,7 +94,9 @@ go to the ` src/multi_agent_vector_fields/config`  and change the start_goal.yam
 ![image](https://github.com/user-attachments/assets/4fecdcd7-9c08-4b66-ba88-ba09854f0652)
 
 
-## Expected 
+## Expected by command 
+
+`roslaunch fliqc_controller_ros sim_fliqc_joint_velocity_standard_debug.launch` 
 
 ![image](https://github.com/user-attachments/assets/528320c7-3cca-44a7-a7c5-4fecf33f155b)
 
